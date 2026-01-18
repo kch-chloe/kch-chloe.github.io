@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc Banking and Digital Finance, University College London, 2025 - 2026
+  * Department of Civil, Environmental, and Geomatic Engineering | Institute of Finance & Technology
+* BA(Econ) Accounting and Finance, University of Manchester, 2022 - 2025
+  * Grade: First Class (1)Grade: First Class (1)
+  * It is accredited by The Institute of Chartered Accountants, Association of Chartered Accountants, and the Chartered Institute of Management Accountants
+  * Peer Mentor, 2023 - 2024
+  * Lead Student representatives for the Accounting and Finance Pathway, 2023 - 2024
+  * External Secretary of the Manchester University Chinese Students' Society, 2023 - 2024
+  * Stellify Award
+* Bishop Hall Jubilee School, 2016 - 2022
+  * HKDSE: Economics (Level 5*), Chemistry (Level 5), Chinese (Level 5)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Audit Intern, Patrick Wong C.P.A. Limited, Hong Kong, Jul 2024 - Sep 2024
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer Intern, Bank of China (Hong Kong), Jul 2023 - Aug 2023
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical Skills: 
+  * Python, Microsoft Word, Excel, Powerpoint
 
-Publications
+* Language:
+  * Cantonese (Native), English (Fluent), Mandarin (Fluent), Spanish (Basic) Level A1/A2
+  * IELTS: 7.5/ 9.0
+
+Volunteering
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Student Volunteer, Firs Environmental Research Station, Manchester, Apr 2025
+  * Environmental-related service 
+* Student Volunteer, National Football Museum, Manchester, Apr 2025
+  * Assisted the Visitor Experience Staff Team in setting up the activity areas at the museum during the Easter Half-Term
+  * Encouraged the visitors to participate in different activities within the museum
+* Student Volunteer, Friends of Platt Fields, Manchester, Apr 2025
+  * Environmental-related service
