@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * MSc Banking and Digital Finance, University College London, 2025 - 2026
-  * Department of Civil, Environmental, and Geomatic Engineering, Institute of Finance & Technology
+  * Department of Civil, Environmental, and Geomatic Engineering
+  * Institute of Finance & Technology
+
 * BA(Econ) Accounting and Finance, University of Manchester, 2022 - 2025
   * Grade: First Class (1)Grade: First Class (1)
   * It is accredited by The Institute of Chartered Accountants, Association of Chartered Accountants, and the Chartered Institute of Management Accountants
@@ -20,6 +22,7 @@ Education
   * Lead Student representatives for the Accounting and Finance Pathway, 2023 - 2024
   * External Secretary of the Manchester University Chinese Students' Society, 2023 - 2024
   * Stellify Award
+
 * Bishop Hall Jubilee School, 2016 - 2022
   * HKDSE: Economics (Level 5*), Chemistry (Level 5), Chinese (Level 5)
 
