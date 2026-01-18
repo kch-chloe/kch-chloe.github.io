@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MSc Banking and Digital Finance, University College London, 2025 - 2026
-  * Department of Civil, Environmental, and Geomatic Engineering | Institute of Finance & Technology
+  * Department of Civil, Environmental, and Geomatic Engineering, Institute of Finance & Technology
 * BA(Econ) Accounting and Finance, University of Manchester, 2022 - 2025
   * Grade: First Class (1)Grade: First Class (1)
   * It is accredited by The Institute of Chartered Accountants, Association of Chartered Accountants, and the Chartered Institute of Management Accountants
