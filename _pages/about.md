@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chloe, a current MSc Banking and Digital Finance at UCL. I hold a Bachelor's of Art (Economics and Social Studies) degree with honours in Accounting and Finance from the University of Manchester. 
+My name is Chloe, a current MSc Banking and Digital Finance student at UCL. I hold a Bachelor's of Art (Economics and Social Studies) degree with honours in Accounting and Finance from the University of Manchester. 
 
 Profile
 ======
