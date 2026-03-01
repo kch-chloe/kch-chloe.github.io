@@ -35,7 +35,7 @@ Work experience
 Skills
 ======
 * Technical Skills: 
-  * Python, Microsoft Word, Excel, Powerpoint
+  * Python, PostgreSQL, Docker, Microsoft Word, Excel, Powerpoint
 
 * Language:
   * Cantonese (Native), English (Fluent), Mandarin (Fluent), Spanish (Basic) Level A1/A2
