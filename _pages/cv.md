@@ -16,7 +16,7 @@ Education
   * Institute of Finance & Technology
 
 * BA(Econ) Accounting and Finance, University of Manchester, 2022 - 2025
-  * Grade: First Class (1)Grade: First Class (1)
+  * Grade: First Class (1)
   * It is accredited by The Institute of Chartered Accountants, Association of Chartered Accountants, and the Chartered Institute of Management Accountants
   * Peer Mentor, 2023 - 2024
   * Lead Student representatives for the Accounting and Finance Pathway, 2023 - 2024
